@@ -1,0 +1,1 @@
+This shuho ("週報", weekly blog in Japanese) is inspired by @kt3k's [project](https://github.com/kt3k/shuho).
